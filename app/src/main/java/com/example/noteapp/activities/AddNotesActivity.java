@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.widget.EditText;
 import com.example.noteapp.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
-
 import java.util.HashSet;
 
 public class AddNotesActivity extends AppCompatActivity {

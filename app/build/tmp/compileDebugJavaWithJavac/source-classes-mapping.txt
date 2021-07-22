@@ -1,6 +1,6 @@
 com/example/noteapp/activities/AddNotesActivity.java
  com.example.noteapp.activities.AddNotesActivity
-com/example/noteapp/BuildConfig.java
- com.example.noteapp.BuildConfig
 com/example/noteapp/activities/MainActivity.java
  com.example.noteapp.activities.MainActivity
+com/example/noteapp/BuildConfig.java
+ com.example.noteapp.BuildConfig
